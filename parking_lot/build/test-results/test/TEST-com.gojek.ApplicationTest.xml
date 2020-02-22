@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gojek.ApplicationTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2019-08-20T07:02:27" hostname="Harshits-MacBook-Pro.local" time="612.039">
+  <properties/>
+  <testcase name="parkInmultiLevelParkingLot" classname="com.gojek.ApplicationTest" time="612.039">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

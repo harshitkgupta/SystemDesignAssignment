@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+# Add script to:
+# * Install dependencies
+cd ../functional_spec
+brew install ruby
+
+ruby -v #confirm ruby to be present
+#outputs ruby 2.6.3p62 (2019-04-16 revision 67580) [x86_64-darwin18]
+gem install bundler # install bundler to manage dependencies
+bundle update --bundler
+
+bundle install # install dependencies
+# * Build/Compile
+../gradlew clean
+../gradlew build
+../gradlew test
+
+# * Run Test Suit to validate
+./run_functional_specs
+# After this is run, bin/parking_lot
+# should Just Work.

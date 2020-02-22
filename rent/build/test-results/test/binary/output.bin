@@ -1,0 +1,20 @@
+type not registered
+No Vehicle
+0Booked type: suv Location: koramangala Cost: 12
+.Booked type: suv Location: jayanagar Cost: 15
+No Vehicle
+koramangala
+Count 3 Type sedan cost: Rs 10
+
+jayanagar
+Count 3 Type sedan cost: Rs 11
+"Count 4 Type hatchback cost: Rs 9
+Count 5 Type bike cost: Rs 50
+-------
+koramangala
+Count 3 Type sedan cost: Rs 10
+
+jayanagar
+Count 3 Type sedan cost: Rs 11
+"Count 4 Type hatchback cost: Rs 9
+Count 5 Type bike cost: Rs 50
